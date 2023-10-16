@@ -1,0 +1,8 @@
+ sudo apt-get install build-essential  
+ sudo apt-get install gcc-multilib  
+ sudo apt install qemu-kvm libvirt-daemon-system libvirt-clients bridge-utils virtinst virt-manager  
+ sudo systemctl is-active libvirtd  
+ sudo apt install qemu-system-x86  
+ sudo apt-get install libc-dev  
+
+ sudo apt install git gettext libtinfo-dev libacl1-dev libgpm-dev  
